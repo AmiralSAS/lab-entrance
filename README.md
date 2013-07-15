@@ -1,6 +1,8 @@
 Lab Entrance
 ============
 
+This is a friend project consisting in the creation of a game, allowing us to developp programmation skills.
+
 How to install :
 ----------------
 
