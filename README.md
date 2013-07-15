@@ -13,7 +13,7 @@ How to install :
 Informations : 
 --------------
 
-* Public is what the client will get
+* public/ folder is where we put pages for the client
 
 Roadmap :
 ---------
