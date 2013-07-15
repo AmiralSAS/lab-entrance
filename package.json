@@ -1,0 +1,16 @@
+{
+	"name":"Lab-Entrance",
+	"author":"Sypefab",
+	"description":"future-game",
+	"version":"0.0.1",
+	"dependencies":{
+		"express":"3.3.4",
+		"colors":"0.6.x",
+		"prototype":"0.0.5",
+		"socket.io":"0.9.16",
+		"socket.io-client":"latest"
+	},
+	"engines":{
+		"node":"0.10.13"
+	}
+}
