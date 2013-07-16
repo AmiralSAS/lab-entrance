@@ -16,9 +16,3 @@ Informations :
 --------------
 
 * public/ folder is where we put pages for the client
-
-Roadmap :
----------
-
-* Configure socket.io
-* Create a server.js file which will be imported or whatever in index.js
