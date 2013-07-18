@@ -9,6 +9,7 @@ How to install :
 * Download all files
 * Extract them in a folder
 * Open a prompt and go inside this folder, type 'npm install' (or 'sudo npm install')
+* Then type 'node index.js' or 'nodejs index.js'
 * Open your browser, and go to localhost:3000
 * Here you are
 
