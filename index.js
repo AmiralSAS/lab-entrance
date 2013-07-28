@@ -13,7 +13,7 @@ var io                                  = require('socket.io').listen(server);
 
 /* Configuration */
 // For server
-var port                                = 3000;
+var port                                = process.env.PORT || 80;
 // For socket.io
 var users                               = {};
 var messages                            = [];
